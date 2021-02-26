@@ -1,0 +1,22 @@
+{
+  "name": "websocket_test",
+  "version": "1.0.0",
+  "description": "Testing websockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "apn": "^2.1.4",
+    "apns": "^0.1.0",
+    "async": "^2.5.0",
+    "body-parser": "^1.17.2",
+    "express": "^4.13.4",
+    "node-gcm": "^0.14.6",
+    "node-mysql": "^0.4.2",
+    "redis": "^2.7.1",
+    "socket.io": "^1.4.6",
+    "uuid": "^3.1.0"
+  },
+  "author": ""
+}
